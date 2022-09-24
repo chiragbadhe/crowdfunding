@@ -1,4 +1,4 @@
-Crowdfunding Smart Contract Powered by Ethereum Blockchain
+## Crowdfunding Smart Contract Powered by Ethereum Blockchain
 
 ## Tech Stack 
 - Solidity
